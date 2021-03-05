@@ -1,0 +1,6 @@
+common/
+data/
+models/
+nvinfer_custom_lpr_parser/libnvdsinfer_custom_impl_lpr.so
+cuda11.0_cudnn8.0_trt7.2/
+cuda11.0_cudnn8.0_trt7.2
