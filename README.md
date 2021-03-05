@@ -35,7 +35,7 @@ More details for TLT3.0 LPD and LPR models and TLT training, please refer to [TL
 
 Download repo:
 ```
-    git clone https://github.com/preronamajumder/deepstream_apps.git
+    git clone https://github.com/preronamajumder/deepstream-lpr-python-version
 ```
 Download models:
 ```
